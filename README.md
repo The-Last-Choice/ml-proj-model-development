@@ -9,7 +9,7 @@ This repo contains all notebooks and files related to model development, includi
 
 ## External Datasets
 
-There are 3 external datasets that the notebooks expect. Please add them to the `data/` directory:
+In addition to the cybersecurity dataset, there are 3 external datasets that the notebooks expect. Please add them to the `data/` directory:
 
 - [ip-to-country-lite](https://db-ip.com/db/download/ip-to-country-lite)
 - [ip-to-asn-lite](https://db-ip.com/db/download/ip-to-asn-lite)
